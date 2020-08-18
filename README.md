@@ -1,5 +1,3 @@
-# chess-system-java
-
 <h1 align="center">
   :trophy: Chess System Java
 </h1>
@@ -24,6 +22,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalacao">Instalacao</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -38,23 +37,28 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   Esta aplicação consiste em um jogo simples de Xadrez, que pode ser executado através do terminal. O jogo possui tratamento de erros, programação defensiva (contra bugs), jogadas especiais do xadres (promoção, roque e en passant) e previsão de movimento das peças.
   
-## :game_die: Instalacao
+## :chess_pawn: Instalacao
 
-Para executar este jogo, recomendo utilizar o [GIT Bash]
+1. Faça o dowload e extração do projeto. 
+2. Abra um terminal ([Git Bash](https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash) é o recomendado, pois é colorido)
+3. Entre no diretório /bin do projeto (comando: cd bin)
+4. Após entrar no diretório, digite Java application/Program para rodar a aplicação (O java precisa estar na versão 11 ou superior).
+5. Bom Jogo!
 
-- Java
+## :framed_picture: Imagens
 
-### Imagem da tela de login
+![tela-inicial](https://user-images.githubusercontent.com/54365007/90513167-9787d800-e135-11ea-8a35-ebf67854ea14.PNG)
 
-![tela-inicial](https://user-images.githubusercontent.com/54365007/79679994-177e4f80-81e1-11ea-8cd0-323d2047dc99.jpg)
+![tratamento-erro](https://user-images.githubusercontent.com/54365007/90513194-9f477c80-e135-11ea-8383-9f3515959954.PNG)
 
-### Tela Inicial
+![check](https://user-images.githubusercontent.com/54365007/90513197-9fe01300-e135-11ea-9fc8-5beef82c6557.PNG)
 
-![tela-inicial2](https://user-images.githubusercontent.com/54365007/79680015-4e546580-81e1-11ea-947a-74b18392f8ca.jpg)
+![jogo-continuo](https://user-images.githubusercontent.com/54365007/90513198-9fe01300-e135-11ea-9626-a02c3bb40636.PNG)
 
-### Editor de artigos, acessado por um administrador
+![late-game](https://user-images.githubusercontent.com/54365007/90513199-a078a980-e135-11ea-8b69-9590e1f11081.PNG)
 
-![admin](https://user-images.githubusercontent.com/54365007/79680026-75129c00-81e1-11ea-8afd-657b715f0db5.jpg)
+![rook-moving](https://user-images.githubusercontent.com/54365007/90513202-a078a980-e135-11ea-8156-e130702f7b64.PNG)
+
 
 ## 📝 Licença
 
