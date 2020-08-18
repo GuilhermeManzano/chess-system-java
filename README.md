@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   Esta aplicação consiste em um jogo simples de Xadrez, que pode ser executado através do terminal. O jogo possui tratamento de erros, programação defensiva (contra bugs), jogadas especiais do xadres (promoção, roque e en passant) e previsão de movimento das peças.
   
-## :chess_pawn: Instalacao
+## ♟️ Instalacao
 
 1. Faça o dowload e extração do projeto. 
 2. Abra um terminal ([Git Bash](https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash) é o recomendado, pois é colorido)
@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 4. Após entrar no diretório, digite Java application/Program para rodar a aplicação (O java precisa estar na versão 11 ou superior).
 5. Bom Jogo!
 
-## :framed_picture: Imagens
+## 🖼️ Imagens
 
 ![tela-inicial](https://user-images.githubusercontent.com/54365007/90513167-9787d800-e135-11ea-8a35-ebf67854ea14.PNG)
 
