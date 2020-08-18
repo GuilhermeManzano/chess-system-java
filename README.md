@@ -21,8 +21,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-instalacao">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -62,7 +62,7 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 
 | Jogada Roque (Castling)  | Jogando... | Jogadas Finais | 
 |---|---|---|
-| ![rook-moving](https://user-images.githubusercontent.com/54365007/90513202-a078a980-e135-11ea-8156-e130702f7b64.PNG))  | ![jogo-continuo](https://user-images.githubusercontent.com/54365007/90513198-9fe01300-e135-11ea-9626-a02c3bb40636.PNG)  | ![late-game](https://user-images.githubusercontent.com/54365007/90513199-a078a980-e135-11ea-8b69-9590e1f11081.PNG)  | 
+| ![rook-moving](https://user-images.githubusercontent.com/54365007/90513202-a078a980-e135-11ea-8156-e130702f7b64.PNG)  | ![jogo-continuo](https://user-images.githubusercontent.com/54365007/90513198-9fe01300-e135-11ea-9626-a02c3bb40636.PNG)  | ![late-game](https://user-images.githubusercontent.com/54365007/90513199-a078a980-e135-11ea-8b69-9590e1f11081.PNG)  | 
 
 ## 📝 Licença
 
